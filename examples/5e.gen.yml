@@ -1,0 +1,47 @@
+---
+name: Flizblarb
+player_name: Jingleheimersmith
+character_class: Wizard
+background: Sage
+race: Human
+alignment: Neutral
+gender: Male
+eyes: Brown
+size: Medium
+height: 5'7"
+weight: 170 lb
+hair: Black
+skin: Dark
+age: 36
+personality_traits: Good at things
+ideals: Likes to keep things groovy
+bonds: Loves kitties
+flaws: Hates dogs
+appearance: Stout black haired wizard person
+allies: Other kitty loving wizards
+backstory: Flizblarb simply awoke into being one day. Ta-da!
+additional: Is pretty neat
+speed: 30
+armor_class: 12
+proficiency_bonus: 2
+stats:
+  strength: 9
+  dexterity: 14
+  intelligence: 16
+  constitution: 15
+  wisdom: 11
+  charisma: 13
+modifiers:
+  strength: -1
+  dexterity: 2
+  constitution: 2
+  intelligence: 3
+  wisdom: 0
+  charisma: 1
+saving_throws:
+  strength: -1
+  dexterity: 2
+  constitution: 2
+  intelligence: 5
+  wisdom: 2
+  charisma: 1

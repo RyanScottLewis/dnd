@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require "yaml"
+
+require "bundler/setup"
+require "prawn"
+require "dry-struct"
+
+$LOAD_PATH.unshift(File.expand_path(File.join(__dir__, "..", "lib")))
+require "dnd/application"
+
+DND::Application.call(ARGV)
+
